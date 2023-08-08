@@ -7,4 +7,4 @@ categories: USC Racing
 
 A vehicle undertray is used to improve track performance of a racecar. This is accomplished by downforce to increase the amount of load on the tires providing more grip. 
 
-![VehicleUndertrayInRoll]({{ "/assets/undertray-roll.png" | relative_url}})
+![VehicleUndertrayInRoll]({{ "/assets/scr23-undertray-roll.png" | relative_url}})
