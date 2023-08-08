@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Ramakrishna Senthil but I go by 'Ram'! I just graduated from USC with a B.S. in Aerospace Engineering and a minor in Computer programming. I am currently studying for my M.S. in Aerospace Engineering with an emphasis on Fluids & Structures. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I made this webpage to showcase my engineering work at USC Racing as well as academic & personal projects.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+P.S.: [Here] (https://ramakrishnasenthil.github.io) is the first webpage I made ever. I made it as a 16 y.o. in my AP Computer Science Principles course in High School.
