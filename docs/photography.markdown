@@ -4,7 +4,8 @@ title: Photography
 permalink: /photography/
 ---
 
-Canon Rebel T6 | Canon AF35M
+Digital: Canon Rebel T6
+Film: Canon AF35M
 
 
 Joshua Tree
@@ -21,7 +22,7 @@ Grand Canyon
 
 ![canyon-condor-flight]({{ "/assets/canyon-condor-flight.jpeg" | relative_url}})
 
-![canyon-road-to-nowhere]({{ "/assets/canyon-road-to-nowhere" | relative_url}})
+![canyon-road-to-nowhere]({{ "/assets/canyon-road-to-nowhere.jpeg" | relative_url}})
 
 Louisiana
 ![louisiana-raccoon]({{ "/assets/louisiana-raccoon.jpg" | relative_url}})
