@@ -21,7 +21,7 @@
 title: Ram's Portfolio
 email: ramakrishnasenthil@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A portfolio dedicated to recent significant projects 
+  A website dedicated to showcasing my recent engineering work.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
