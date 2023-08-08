@@ -3,15 +3,4 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Projects
 ---
-
-test 
-
-test 
-
-test 
-
-test
-
-test 5
