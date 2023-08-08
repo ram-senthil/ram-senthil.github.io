@@ -5,6 +5,7 @@ permalink: /photography/
 ---
 
 Digital: Canon Rebel T6
+
 Film: Canon AF35M
 
 
