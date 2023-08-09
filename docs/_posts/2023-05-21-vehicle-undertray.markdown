@@ -33,7 +33,11 @@ As part of USC Racing, the goal is design, build, and compete with a high-perfor
 <br>
 
 ### Context
-A vehicle undertray's purpose is to increase track performance of a racecar. This is accomplished by adding downforce which increases the normal load on the tires. This added normal load provides more lateral load allowed to be extracted meaning more grip and thus ability to corner faster. The added downforce essentially allows the vehicle to handle more centripetal acceleration without sliding. However, with any added aerodynamic component intended to add downforce, penalties of drag and weight must be analyzed and weighed against the potential benefits. An advantage undertrays have over external aerodynamic elements such as a front wing or a rear wing is the reduced frontal area meaning inherently less of a drag penalty.   
+![yose-pfp](https://ram-senthil.github.io/assets/undertray-tire-forces.png){: height="328px" width="382px" style="float:left; padding-right:10px" }
+<figcaption>Forces & Moments a Tire Experiences While Interacting with Ground Plane [1]</figcaption>
+A vehicle undertray's purpose is to increase track performance of a racecar. This is accomplished by adding downforce which increases the normal load on the tires. This added normal load provides more lateral load allowed to be extracted meaning more grip and thus ability to corner faster. The added downforce essentially allows the vehicle to handle more centripetal acceleration without sliding. However, with any added aerodynamic component intended to add downforce, penalties of drag and weight must be analyzed and weighed against the potential benefits. An advantage undertrays have over external aerodynamic elements such as a front wing or a rear wing is the reduced frontal area meaning inherently less of a drag penalty.
+
+
 <br>
 
 ### Methodology
@@ -95,3 +99,7 @@ Finished undertray integration in time!
 
 #### Final Validation
 Aerodynamic testing with tufts on rear wing & pressure taps on undertray shown on right
+
+##### References
+[1] Gonçalves, J.P.C., Ambrósio, J.A.C. Road Vehicle Modeling Requirements for Optimization of Ride and Handling. Multibody Syst Dyn 13, 3–23 (2005). https://doi.org/10.1007/s11044-005-2528-5
+[2] Katz, Joseph. Race Car Aerodynamics : Designing for Speed. Cambridge, Ma, R. Bentley, 2006.
