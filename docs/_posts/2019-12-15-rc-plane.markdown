@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "R/C Plane Mk. 1"
+date:   2023-08-07 10:00:00 -0700
+categories: Personal
+---
+
+As a preface, I built this plane using the following youtube video. I had no part in the design of it.
+
+Here are the results:
+
+
+~insert images here~
+
+
+I managed to get it flying but it was very unstable. Additionally, due to the low C_L, to keep it aloft required a significant amount of speed which as an amateur R/C pilot was not able to control. It quickly came to its demise after about a minute aloft.
+
+Here is the wreckage.
+
+~insert images here~
