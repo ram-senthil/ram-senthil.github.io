@@ -10,11 +10,14 @@ As a preface, I built this plane using the following youtube video. I had no par
 Here are the results:
 
 
-~insert images here~
+![rc-mk1-building]({{ "/assets/rc-mk1-building.jpg" | relative_url}})
 
+![rc-mk1-posing]({{ "/assets/rc-mk1-posing.jpg" | relative_url}})
 
 I managed to get it flying but it was very unstable. Additionally, due to the low C_L, to keep it aloft required a significant amount of speed which as an amateur R/C pilot was not able to control. It quickly came to its demise after about a minute aloft.
 
-Here is the wreckage.
+Here is it crashed into a tree:
 
-~insert images here~
+Here is the wreckage:
+
+![rc-mk1-wreckage]({{ "/assets/rc-mk1-wreckage.JPG" | relative_url}})
