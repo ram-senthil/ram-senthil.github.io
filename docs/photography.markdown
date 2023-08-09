@@ -22,7 +22,7 @@ Film: Canon AF35M
 <br>
 
 ![joshua-stars]({{ "/assets/joshua-stars.jpeg" | relative_url}})
-<figcaption>Starry Night with Joshue Tree in Foreground. Rebel T6. Ramakrishna Senthil.</figcaption>
+<figcaption>Starry Night with Joshua Tree in Foreground. Rebel T6. Ramakrishna Senthil.</figcaption>
 <br>
 <br>
 
@@ -51,7 +51,7 @@ Film: Canon AF35M
 <figcaption>SCR23 at Cable Airport. Rebel T6. Ramakrishna Senthil.</figcaption>
 <br>
 
-![scr23-endurance]({{ "/assets/scr23-endurance.jpg" | relative_url}})
+![scr23-endurance]({{ "/assets/scr23-endurance.jpeg" | relative_url}})
 <figcaption>SCR23 During FSAE Michigan Endurance. Rebel T6. Ramakrishna Senthil.</figcaption>
 <br>
 <br>
