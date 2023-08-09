@@ -33,8 +33,7 @@ As part of USC Racing, the goal is design, build, and compete with a high-perfor
 <br>
 
 ### Context
-![yose-pfp](https://ram-senthil.github.io/assets/undertray-tire-forces.png){: height="328px" width="382px" style="float:left; padding-right:10px" }
-<figcaption>Forces & Moments a Tire Experiences While Interacting with Ground Plane [1]</figcaption>
+![yose-pfp](https://ram-senthil.github.io/assets/undertray-tire-forces.png "Forces & Moments a Tire Experiences While Interacting with Ground Plane [1]"){: height="328px" width="382px" style="float:left; padding-right:10px" }
 A vehicle undertray's purpose is to increase track performance of a racecar. This is accomplished by adding downforce which increases the normal load on the tires. This added normal load provides more lateral load allowed to be extracted meaning more grip and thus ability to corner faster. The added downforce essentially allows the vehicle to handle more centripetal acceleration without sliding. However, with any added aerodynamic component intended to add downforce, penalties of drag and weight must be analyzed and weighed against the potential benefits. An advantage undertrays have over external aerodynamic elements such as a front wing or a rear wing is the reduced frontal area meaning inherently less of a drag penalty.
 
 
