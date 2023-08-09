@@ -28,7 +28,7 @@ Louisiana
 ![louisiana-raccoon]({{ "/assets/louisiana-raccoon.jpg" | relative_url}})
 
 SCR23
-![scr23-airplane]({{ "/assets/scr23-endurance.jpeg" | relative_url}})
+![scr23-airplane]({{ "/assets/scr23-endurance.jpg" | relative_url}})
 
 Yosemite
 ![yose-waterfall-long-exposure]({{ "/assets/yose-waterfall-long-exposure.jpg" | relative_url}})
