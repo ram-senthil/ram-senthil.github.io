@@ -4,8 +4,7 @@ title: Photography
 permalink: /photography/
 ---
 
-Digital: Canon Rebel T6
-
+Digital: Canon Rebel T6 <br>
 Film: Canon AF35M
 
 
