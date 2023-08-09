@@ -33,12 +33,9 @@ As part of USC Racing, the goal is design, build, and compete with a high-perfor
 <br>
 
 ### Context
-![undertray-tire-forces](https://ram-senthil.github.io/assets/undertray-tire-forces.png "Forces & Moments a Tire Experiences While Interacting with Ground Plane [1]"){: height="328px" width="382px" style="float:left" }
-![undertray-tire-slip-angle](https://ram-senthil.github.io/assets/undertray-tire-slip-angle.png "Normal Load Influence on Tire Lateral Force vs Slip Angle [2]"){: height="276x" width="392px" style="float:right" }
+![undertray-tire-forces](https://ram-senthil.github.io/assets/undertray-tire-forces.png "Forces & Moments a Tire Experiences While Interacting with Ground Plane [1]") ![undertray-tire-slip-angle](https://ram-senthil.github.io/assets/undertray-tire-slip-angle.png "Normal Load Influence on Tire Lateral Force vs Slip Angle [2]")
 
 A vehicle undertray's purpose is to increase track performance of a racecar. This is accomplished by adding downforce which increases the normal load on the tires. This added normal load provides more lateral load allowed to be extracted meaning more grip and thus ability to corner faster. The added downforce essentially allows the vehicle to handle more centripetal acceleration without sliding. However, with any added aerodynamic component intended to add downforce, penalties of drag and weight must be analyzed and weighed against the potential benefits. An advantage undertrays have over external aerodynamic elements such as a front wing or a rear wing is the reduced frontal area meaning inherently less of a drag penalty.
-
-
 <br>
 
 ### Methodology
@@ -52,6 +49,7 @@ g. [Final Validation](#final-validation)<br>
 <br>
 
 #### Trade Studies
+We first started by conducting trade studies to identify a design space. Though more downforce is generally better, the more aerodynamic components added to achieve higher downforce usually means increased drag and weight penalties as well. 
 Utilized Optimum Lap (point-mass laptime simulation) to identify achievable target combination of drag, downforce, weight addition
 <br>
 First calibrated digital model of existing vehicle with track data; oval track selected for simplicity
