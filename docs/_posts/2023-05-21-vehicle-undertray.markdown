@@ -33,9 +33,14 @@ As part of USC Racing, the goal is design, build, and compete with a high-perfor
 <br>
 
 ### Context
-![undertray-tire-forces](https://ram-senthil.github.io/assets/undertray-tire-forces.png "Forces & Moments a Tire Experiences While Interacting with Ground Plane [1]") ![undertray-tire-slip-angle](https://ram-senthil.github.io/assets/undertray-tire-slip-angle.png "Normal Load Influence on Tire Lateral Force vs Slip Angle [2]" = 75%x)
+![undertray-tire-forces](https://ram-senthil.github.io/assets/undertray-tire-forces.png){:style="display:block; margin-left:auto; margin-right:auto"}
+<figcaption>Fig. 1: Forces & Moments a Tire Experiences While Interacting with Ground Plane [1]</figcaption>
+<br>
 
-A vehicle undertray's purpose is to increase track performance of a racecar. This is accomplished by adding downforce which increases the normal load on the tires. This added normal load provides more lateral load allowed to be extracted meaning more grip and thus ability to corner faster. The added downforce essentially allows the vehicle to handle more centripetal acceleration without sliding. However, with any added aerodynamic component intended to add downforce, penalties of drag and weight must be analyzed and weighed against the potential benefits. An advantage undertrays have over external aerodynamic elements such as a front wing or a rear wing is the reduced frontal area meaning inherently less of a drag penalty.
+A vehicle undertray's purpose is to increase track performance of a racecar. This is accomplished by adding downforce which increases the normal load on the tires. The different loads and moments a tire experiences is shown in Fig. 1. This added normal load provides more lateral load allowed to be extracted meaning more grip and thus ability to corner faster as shown in Fig. 2. The added downforce essentially allows the vehicle to handle more centripetal acceleration without sliding. However, with any added aerodynamic component intended to add downforce, penalties of drag and weight must be analyzed and weighed against the potential benefits. An advantage undertrays have over external aerodynamic elements such as a front wing or a rear wing is the reduced frontal area meaning inherently less of a drag penalty.
+
+![undertray-tire-slip-angle](https://ram-senthil.github.io/assets/undertray-tire-slip-angle.png){:style="display:block; margin-left:auto; margin-right:auto"}
+<figcaption>Fig. 2: Normal Load Influence on Tire Lateral Force vs Slip Angle [2]</figcaption>
 <br>
 
 ### Methodology
