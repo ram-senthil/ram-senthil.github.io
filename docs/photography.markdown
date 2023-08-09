@@ -8,8 +8,9 @@ Digital: Canon Rebel T6 <br>
 Film: Canon AF35M
 
 
-Joshua Tree
+# Joshua Tree
 ![joshua-hawk]({{ "/assets/joshua-hawk.jpg" | relative_url}})
+<figcaption>Perched Hawk. Rebel T6. Ramakrishna Senthil.</figcaption>
 
 ![joshua-tree]({{ "/assets/joshua-tree.jpeg" | relative_url}})
 
@@ -17,20 +18,25 @@ Joshua Tree
 
 ![joshua-stars]({{ "/assets/joshua-stars.jpeg" | relative_url}})
 
-Grand Canyon
+# Grand Canyon
 ![canyon-condor-canyon]({{ "/assets/canyon-condor-canyon.jpeg" | relative_url}})
 
 ![canyon-condor-flight]({{ "/assets/canyon-condor-flight.jpeg" | relative_url}})
 
 ![canyon-road-to-nowhere]({{ "/assets/canyon-road-to-nowhere.jpeg" | relative_url}})
 
-Louisiana
+# Louisiana
 ![louisiana-raccoon]({{ "/assets/louisiana-raccoon.jpg" | relative_url}})
 
-SCR23
-![scr23-airplane]({{ "/assets/scr23-endurance.jpg" | relative_url}})
+# SCR23
+![scr23-airplane]({{ "/assets/scr23-airplane.jpeg" | relative_url}})
 
-Yosemite
+![scr23-endurance]({{ "/assets/scr23-endurance.jpg" | relative_url}})
+
+# Yosemite
 ![yose-waterfall-long-exposure]({{ "/assets/yose-waterfall-long-exposure.jpg" | relative_url}})
 
 ![yose-milky-way]({{ "/assets/yose-milky-way.jpg" | relative_url}})
+
+# Echo Park
+![echo-bird]({{ "/assets/echo-park-bird.jpg" | relative_url}})
