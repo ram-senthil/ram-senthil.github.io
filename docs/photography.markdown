@@ -76,5 +76,5 @@ Film: Canon AF35M
 
 # Echo Park
 ![echo-bird]({{ "/assets/echo-park-bird.jpg" | relative_url}})
-<figcaption>Bird, Echo Park. Rebel T6. Ramakrishna Senthil.</figcaption>
+<figcaption>Black-crowned Night Heron, Echo Park. Rebel T6. Ramakrishna Senthil.</figcaption>
 <br>
