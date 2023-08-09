@@ -12,7 +12,7 @@ To successfully design an R/C plane, I decided to start with the instrumentation
 
 To measure a thrust curve, I will need to create a device which measures thrust and is able to modulate the inputted voltage. This article describes my process through it all.
 
-##Contents:
+## Contents:
 
 1. Introduction
 2. Methodology<br>
