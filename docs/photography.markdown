@@ -13,7 +13,7 @@ Film: Canon AF35M
 <figcaption>Perched Hawk. Rebel T6. Ramakrishna Senthil.</figcaption>
 <br>
 
-![joshua-tree]({{ "/assets/joshua-tree.jpeg" | relative_url}})
+![joshua-tree]({{ "/assets/joshua-tree.jpg" | relative_url}})
 <figcaption>A Joshua Tree. AF35M. Ramakrishna Senthil.</figcaption>
 
 ![joshua-vulture]({{ "/assets/joshua-vulture.jpg" | relative_url}})
@@ -21,6 +21,8 @@ Film: Canon AF35M
 
 ![joshua-stars]({{ "/assets/joshua-stars.jpeg" | relative_url}})
 <figcaption>Starry Night with Joshue Tree in Foreground. Rebel T6. Ramakrishna Senthil.</figcaption>
+<br>
+<br>
 
 # Grand Canyon
 ![canyon-condor-canyon]({{ "/assets/canyon-condor-canyon.jpeg" | relative_url}})
@@ -31,6 +33,8 @@ Film: Canon AF35M
 
 ![canyon-road-to-nowhere]({{ "/assets/canyon-road-to-nowhere.jpeg" | relative_url}})
 <figcaption>Condor in Flight, Tagged J1. Rebel T6. Ramakrishna Senthil.</figcaption>
+<br>
+<br>
 
 # Louisiana
 ![louisiana-raccoon]({{ "/assets/louisiana-raccoon.jpg" | relative_url}})
@@ -42,6 +46,8 @@ Film: Canon AF35M
 
 ![scr23-endurance]({{ "/assets/scr23-endurance.jpg" | relative_url}})
 <figcaption>SCR23 During FSAE Michigan Endurance. Rebel T6. Ramakrishna Senthil.</figcaption>
+<br>
+<br>
 
 # Yosemite
 ![yose-waterfall-long-exposure]({{ "/assets/yose-waterfall-long-exposure.jpg" | relative_url}})
@@ -55,6 +61,8 @@ Film: Canon AF35M
 
 ![yose-milky-way]({{ "/assets/yose-milky-way.jpg" | relative_url}})
 <figcaption>Milky Way, Yosemite. Rebel T6. Ramakrishna Senthil.</figcaption>
+<br>
+<br>
 
 # Echo Park
 ![echo-bird]({{ "/assets/echo-park-bird.jpg" | relative_url}})
