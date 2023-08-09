@@ -9,7 +9,7 @@ Film: Canon AF35M
 
 
 # Joshua Tree
-![joshua-hawk]({{ "/assets/joshua-hawk.jpg" | relative_url}})
+![joshua-hawk]({{ "/assets/joshua-hawk.jpeg" | relative_url}})
 <figcaption>Perched Hawk. Rebel T6. Ramakrishna Senthil.</figcaption>
 <br>
 
@@ -17,7 +17,7 @@ Film: Canon AF35M
 <figcaption>A Joshua Tree. AF35M. Ramakrishna Senthil.</figcaption>
 <br>
 
-![joshua-vulture]({{ "/assets/joshua-vulture.jpg" | relative_url}})
+![joshua-vulture]({{ "/assets/joshua-vulture.jpeg" | relative_url}})
 <figcaption>Perched Vulture. Rebel T6. Ramakrishna Senthil.</figcaption>
 <br>
 
@@ -36,12 +36,12 @@ Film: Canon AF35M
 <br>
 
 ![canyon-road-to-nowhere]({{ "/assets/canyon-road-to-nowhere.jpeg" | relative_url}})
-<figcaption>Condor in Flight, Tagged J1. Rebel T6. Ramakrishna Senthil.</figcaption>
+<figcaption>Road to Nowhere, Grand Canyon. Rebel T6. Ramakrishna Senthil.</figcaption>
 <br>
 <br>
 
 # Louisiana
-![louisiana-raccoon]({{ "/assets/louisiana-raccoon.jpg" | relative_url}})
+![louisiana-raccoon]({{ "/assets/louisiana-raccoon.jpeg" | relative_url}})
 <figcaption>Raccoon. Rebel T6. Ramakrishna Senthil.</figcaption>
 <br>
 <br>
