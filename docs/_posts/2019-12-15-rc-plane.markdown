@@ -11,13 +11,15 @@ Here are the results:
 
 
 ![rc-mk1-building]({{ "/assets/rc-mk1-building.jpg" | relative_url}})
+<figcaption>Building the R/C Plane Mk 1. Ramakrishna Senthil.</figcaption>
+<br>
 
 ![rc-mk1-posing]({{ "/assets/rc-mk1-posing.jpeg" | relative_url}})
+<figcaption>Posing with R/C Plane Mk 1. Ramakrishna Senthil.</figcaption>
+<br>
 
 I managed to get it flying but it was very unstable. Additionally, due to the low C~L~, to keep it aloft required a significant amount of speed which as an amateur R/C pilot was not able to control. It quickly came to its demise after about a minute aloft.
 
-Here is it crashed into a tree:
-
-Here is the wreckage:
-
 ![rc-mk1-wreckage]({{ "/assets/rc-mk1-wreckage.jpg" | relative_url}})
+<figcaption>Recovered Wreckage. Ramakrishna Senthil.</figcaption>
+<br>
