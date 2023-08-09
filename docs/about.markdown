@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img align="left" width="100" height="148" src="https://ram-senthil.github.io/assets/yose-pfp.jpg">
+<img align="left" width="385" height="570" src="https://ram-senthil.github.io/assets/yose-pfp.jpg">
 
 My name is Ramakrishna Senthil but I go by 'Ram'! I just graduated from USC with a B.S. in Aerospace Engineering and a minor in Computer programming. I am currently studying for my M.S. in Aerospace Engineering with an emphasis on Fluids & Structures. 
 
