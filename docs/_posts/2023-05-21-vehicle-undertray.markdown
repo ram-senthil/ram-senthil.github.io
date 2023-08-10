@@ -65,7 +65,7 @@ Below is an example of predicted lap-times for the three parameters downforce, d
 <br>
 
 ![undertray-laptime-df-drag](https://ram-senthil.github.io/assets/undertray-laptime-df-drag.png) ![undertray-laptime-df-mass](https://ram-senthil.github.io/assets/undertray-laptime-df-mass.png)
-<figcaption style="text-align: center;">Fig. 4: Downforce Coefficient vs Drag Coefficient and Vehicle Mass</figcaption>
+<figcaption style="text-align: center;">Fig. 4: C<sub>DF</sub> vs C<sub>D</sub> and Vehicle Mass</figcaption>
 
 
 **Terminology in Fig. 4:**
@@ -79,37 +79,70 @@ Even with more weight and drag an inclusion of undertray improves vehicle perfor
 <br>
 
 #### Prototyping
-I expedited an initial design intended to be manufactured out of sheet metal for rapid manufacturing. This design was not iterated much due to a tight timeline and Computational Fluid Dynamics (CFD) simulations predicted it to have poor performance. Though the goal was to design a geoemtry that would be aerodynamically effective, moreso the intention of the prototype was to validate the accuracy of CFD in predicting flow underneath the vehicle. Additionally, the mass of the sheet metal prototype was much higher than the design target, but this was expected because the final design was to be manufactured using composites for high-strength low-weight. The prototype in CAD is shown below in Fig. 5 with the manufactured sheet metal version in Fig. 6.
+I expedited an initial design intended to be manufactured out of sheet metal for rapid manufacturing. This design was not iterated much due to a tight timeline and Computational Fluid Dynamics (CFD) simulations predicted it to have poor performance. Though the goal was to design a geoemtry that would be aerodynamically effective, moreso the intention of the prototype was to validate the accuracy of CFD in predicting flow underneath the vehicle. Additionally, the mass of the sheet metal prototype was much higher than the design target, but this was expected because the final design was to be manufactured using composites for high-strength low-weight. The prototype in CAD is shown below in Fig. 5 
 
 ![undertray-prototype-cad](https://ram-senthil.github.io/assets/undertray-prototype-cad.png){:style="display:block; margin-left:auto; margin-right:auto"}
 <figcaption style="text-align: center;">Fig. 5: Undertray Prototype CAD Model</figcaption>
 <br>
 
+From the CAD model, each piece was digitally unrolled and placed as 2D pieces which could be waterjet out and rivetted together. This is shown in Fig. 6.
 
-![undertray-prototype-manufactured](https://ram-senthil.github.io/assets/undertray-prototype-manufactured.png){:style="display:block; margin-left:auto; margin-right:auto"}
-<figcaption style="text-align: center;">Fig. 6: Undertray Prototype Manufactured</figcaption>
+![undertray-prototype-dxf]({{"assets/undertray-prototype-dxf.jpeg" | relative_url}}){:style="display:block; margin-left:auto; margin-right:auto"}
+<figcaption style="text-align: center;">Fig. 6: Undertray Prototype 2D Pieces</figcaption>
 <br>
 
+From there, the pieces were waterjet out and rolled as shown below in Fig. 7. 
+
+![undertray-prototype-waterjet]({{"assets/undertray-prototype-waterjet.jpeg" | relative_url}}){:style="display:block; margin-left:auto; margin-right:auto"}
+<figcaption style="text-align: center;">Fig. 7: Undertray Prototype Laid Out</figcaption>
+<br>
+
+Then the pieces were mostly rivetted together and welded where necessary. The manufactured sheet metal version is shown below in Fig. 8 with pressure taps and routing to the pressure scanner.
+
+![undertray-prototype-manufactured]({{"assets/undertray-prototype-manufactured.png" | relative_url}}){:style="display:block; margin-left:auto; margin-right:auto"}
+<figcaption style="text-align: center;">Fig. 8: Undertray Prototype Manufactured with Pressure Taps</figcaption>
+<br>
+
+The prototype integrated onto the vehicle is shown below in Fig. 9.
+
+![undertray-prototype-integrated]({{"assets/undertray-prototype-integrated.png" | relative_url}}){:style="display:block; margin-left:auto; margin-right:auto"}
+<figcaption style="text-align: center;">Fig. 9: Undertray Prototype Integrated onto Vehicle</figcaption>
+<br>
 
 #### Prototype Validation
-Since at the time our team did not have a pressure scanner, I convinced the Aerospace & Mechanical Engineering Dept. to purchase 8 port pressure scanner on behalf of my senior design project. 
-For data validation of my “senior design project”, but I used it extensively for non-senior design USC Racing purposes 
-Within error, experimental matches CFD; first time in USC Racing History validating CFD!
+Since at the time our team did not have a pressure scanner, I convinced the Aerospace & Mechanical Engineering Dept. to purchase 8 port pressure scanner on behalf of my senior design project. We conducted straight-line constant speed runs on track and experimentally measured coefficients of pressure on the aerodynamic surface of the undertray. This was compared to simulation results in the following table. 6 ports were used for static pressure port readings and the other two were used to measure dynamic pressure with a pitot tube to calculate airspeed. The undertray was tested at Buttonwillow Raceway shown below in Fig. 10.
+
+![undertray-prototype-testing]({{"assets/undertray-prototype-testing.png" | relative_url}}){:style="display:block; margin-left:auto; margin-right:auto"}
+<figcaption style="text-align: center;">Fig. 10: Undertray Prototype Testing. Lucas Dudley</figcaption>
+<br>
+
+The results from testing show that within experimental error, the CFD cases correctly represented the pressure distribution and therefore would be accurate at predicting downforce and drag.
+
+| Tap Location  | Left (L)  | Middle (M)    | Right (R) |
+|---------------|-----------|---------------|-----------|
+| **Front (F)**     |-0.6 (CFD)<br>-0.3+/-0.1 (Exp)|-0.5 (CFD)<br>-0.5+/-0.1 (Exp)|-0.6 (CFD)<br>-0.5+/-0.1 (Exp)| 
+| **Rear (R)**      |-0.2 (CFD)<br>-0.20+/-0.07 (Exp)|-0.3 (CFD)<br>-0.25+/-0.06 (Exp)|-0.2 (CFD)<br>-0.13+/-0.07 (Exp)|
+
 <br>
 
 #### Redesign
-Singlehandedly redesigned undertray over winter break to improve performance & achieve trade study targets
-Designed chassis integration system to be speedy to ensure maintainability of vehicle underbody
-Mounts allow undertray to be “slid” into place and pinned down with clevis/cotter pins
-No tools required to mount or dismount!
+Knowing that the CFD was accurate, I spent all of 2022 winter singlehandedly redesigning the undertray to improve performance & achieve trade study targets. I iterated the design at least 5 times before arriving upon a new design that was completely different yet able to meet the design targets. The before and after CFD plots depicting pressure distribution is shown below in Fig. 11. In these images, the larger areas of more negative values on the underside of the vehicle indicates more downforce. Clearly the new design has a more low pressure regions and thusly more aerodynamic efficacy. 
+
+![undertray-redesign-cfd]({{"assets/undertray-redesign-cfd.png" | relative_url}}){:style="display:block; margin-left:auto; margin-right:auto"}
+<figcaption style="text-align: center;">Fig. 10: Aerodynamic Improvements from Prototype (Left) to Final Design (Right)</figcaption>
+<br>
+
+I emphasized the requirement of speedy maintanence and oversaw the design of the chassis integration system which was conducted by one of my subteam members. This design was exceptionally slick allowing us to “slide” the undertray under the vehicle into place and then secure it by pinning mounting holes down with clevis/cotter pins. This meant that no tools are required to mount or dismount!
 <br>
 
 #### Manufacturing
-Carbon fiber (CFRP) product required considering weight constraints
-Conventional high density foam cost significant amount of money for the raw material and machining labor
-Lead times for machining are weeks at the minimum
-Innovated a completely unique method to create a precise 2-d curvature mold using sheet metal (donated for free) and waterjetting in-house
-Manufactured composites in-house
+Carbon fiber (CFRP) product required considering structural requirements and weight constraints. The conventional method for manufacturing undertrays is utilizing a high density negative foam. However these cost significant amount of money for the raw material and machining labor. Even if the material and labor is donated, the lead times are weeks at the minimum. Instead, we innovated a completely unique method to create a precise 2-d curvature mold using sheet metal (donated for free by MK Metals) and waterjetting in-house. A digital model of the mold and its components are shown below in Fig. 11. 
+
+![undertray-redesign-cfd]({{"assets/undertray-side-channel-mold-cad.png" | relative_url}}){:style="display:block; margin-left:auto; margin-right:auto"}
+<figcaption style="text-align: center;">Fig. 11: Side Channel Mold with Part Overlaid (Left), Support Ribs (Middle), Tabs & Slots (Right)</figcaption>
+<br>
+
+Using this technique, all the composites were able to be manufuactured in-house. The 
 Slotted all curved sections into endplates
 In this condition, extremely fragile because joint sections have no support in bending  Layup composite over joint sections!
 <br>
