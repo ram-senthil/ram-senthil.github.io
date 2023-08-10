@@ -128,11 +128,16 @@ The results from testing show that within experimental error, the CFD cases corr
 #### Redesign
 Knowing that the CFD was accurate, I spent all of 2022 winter singlehandedly redesigning the undertray to improve performance & achieve trade study targets. I iterated the design at least 5 times before arriving upon a new design that was completely different yet able to meet the design targets. The before and after CFD plots depicting pressure distribution is shown below in Fig. 11. In these images, the larger areas of more negative values on the underside of the vehicle indicates more downforce. Clearly the new design has a more low pressure regions and thusly more aerodynamic efficacy. 
 
+
 ![undertray-redesign-cfd]({{"assets/undertray-redesign-cfd.png" | relative_url}}){:style="display:block; margin-left:auto; margin-right:auto"}
 <figcaption style="text-align: center;">Fig. 10: Aerodynamic Improvements from Prototype (Left) to Final Design (Right)</figcaption>
 <br>
 
-I emphasized the requirement of speedy maintanence and oversaw the design of the chassis integration system which was conducted by one of my subteam members. This design was exceptionally slick allowing us to “slide” the undertray under the vehicle into place and then secure it by pinning mounting holes down with clevis/cotter pins. This meant that no tools are required to mount or dismount!
+One of the main design changes was the distance from the throat section to the ground. The clearance was significantly reduced to ~1" compared to previously at ~2". This lower clearance was able to take advantage of the venturi effect where throat's cross-sectional area is inversely proportional to the velocity at that region meaning lower pressure. The ability to lower the undertray further was only experimentally validated from testing of the prototype.
+
+Another main change was the location of the inlets. The new design of the undertray featured inlets that started significantly further rearwards than previously. This was to avoid the front wing's wake as much as possible. The previous design was especially ineffective 
+
+I emphasized the requirement of speedy maintanence and oversaw the design of the chassis integration system which was conducted by one of my subteam members. This design would allow us to “slide” the undertray under the vehicle into place and then secure it by pinning mounting holes down with clevis/cotter pins. This meant that no tools are required to mount or dismount! 
 <br>
 
 #### Manufacturing
