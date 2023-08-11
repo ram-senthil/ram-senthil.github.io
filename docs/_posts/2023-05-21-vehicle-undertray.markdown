@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "USC Racing Vehicle Undertray"
+title:  "USC Racing Vehicle Undertray Design"
 date:   2023-05-21 10:00:00 -0700
-categories: USC-Racing
+categories: usc-racing
 image:  /assets/scr23-undertray-roll.png
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "STAR-CCM+ CFD Lecture Videos"
 date:   2020-12-01 10:00:00 -0700
-categories: Personal
+categories: usc-racing
 image:  /assets/star-ccm.png
 ---
 
