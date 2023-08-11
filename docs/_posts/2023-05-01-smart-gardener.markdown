@@ -4,6 +4,7 @@ title:  "Smart Gardener"
 date:   2023-05-01 10:00:00 -0700
 categories: Personal
 image:  /assets/smart-gardener-overall.jpeg
+description: The prototyping of an automated gardening system with cloud infrastructure
 ---
 
 We have a large garden in our backyard which requires a significant amount of time to water frequently. Instead of having to physically be present, a smart gardener system could take care of this for you. It would have sensors to detect moisture as well as a water pump to water the plants. I created a prototype version of this with a [Particle Argon](https://docs.particle.io/argon/) which can connect to WiFi to enable IoT.

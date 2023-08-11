@@ -3,6 +3,7 @@ layout: post
 title:  "Fan Thrust Stand"
 date:   2023-08-07 10:00:00 -0700
 categories: Personal
+description: Creating an electric motor fan thrust stand
 ---
 
 I want to design and build an R/C plane from scratch. My first stab at R/C planes was back in 2019. The post describing that is [here](https://ram-senthil.github.io/personal/2019/12/15/rc-plane.html)

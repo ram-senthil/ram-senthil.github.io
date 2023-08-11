@@ -4,6 +4,7 @@ title:  "STAR-CCM+ CFD Lecture Videos"
 date:   2020-12-01 10:00:00 -0700
 categories: usc-racing
 image:  /assets/star-ccm.png
+description: Lecture videos on setting up CFD simulations in STAR-CCM+
 ---
 
 During the Covid-19 Pandemic, I created some CFD lecture videos for my FSAE team to provide an efficient method of knowledge transfer. 

@@ -4,6 +4,7 @@ title:  "USC Racing Vehicle Undertray Design"
 date:   2023-05-21 10:00:00 -0700
 categories: usc-racing
 image:  /assets/scr23-undertray-roll.png
+description: An in-depth explanation of the development of a vehicle undertray
 ---
 
 I am currently the Aerodynamics Lead Engineer of USC Racing, my school's Formula Student team. As the Lead Aerodynamics Engineer, I am responsible for the design, analysis, manufacturing, and validation of the vehicle’s aerodynamics package. In this post, I describe the design cycle for the development of the team’s first successful undertray in which I had direct and immense involvement throughout. This work was conducted between Aug 2022-May 2023 with the competition May 17-21, 2023 at Michigan. We placed 3rd/120 teams at design finals in the Aerodynamics category.
