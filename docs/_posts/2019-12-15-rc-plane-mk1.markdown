@@ -21,6 +21,18 @@ Here are some pictures along the way
 
 I managed to get it flying but it was very unstable. Additionally, due to the low C~L~, to keep it aloft required a significant amount of speed which as an amateur R/C pilot was not able to control. It quickly came to its demise after about a minute aloft.
 
+Control Surface Check
+<iframe width="315" height="560"
+src="https://youtube.com/embed/0fh1Cm9RCmw"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+
+First (and last) Flight 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkrEaqwlINU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ![rc-mk1-wreckage]({{ "/assets/rc-mk1-wreckage.jpg" | relative_url}})
 <figcaption>Recovered Wreckage. Ramakrishna Senthil.</figcaption>
 <br>
