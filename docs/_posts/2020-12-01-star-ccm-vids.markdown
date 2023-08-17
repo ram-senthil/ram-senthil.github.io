@@ -14,8 +14,9 @@ Here are the videos:
 Part 1: Basic Introduction & Simple Internal Flow Simulation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mkBo6WvzUDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Part 2: Full Car Simulation
+Part 2: Airfoil Simulation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BE09FXL4qZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Part 3: Full Car Simulation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W2MzxmdiiEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
