@@ -6,3 +6,6 @@ categories: usc-racing
 # image:  /assets/star-ccm.png
 description: The development of a new manufacturing method for airfoil manufacturing
 ---
+
+
+Airfoils are used to generate a force in a different direction than free stream flow. An airfoil is a 2-D profile
